@@ -2,32 +2,6 @@
 
 # -*- coding: utf-8 -*-
 
-"""
-
-Notenheft - Ein kleines Desktop-Programm zur Verwaltung von Schulnoten.
-
-
-Funktionen:
-
-- Fächer anlegen, umbenennen, löschen
-
-- Schriftliche und mündliche Noten je Fach erfassen
-
-- Gewichtung schriftlich/mündlich je Fach einstellbar
-
-- Automatische Berechnung von Fach- und Gesamtdurchschnitt
-
-- Notenspiegel (Verteilung aller Noten) als Balkendiagramm
-
-- Automatisches Speichern in einer JSON-Datei im Benutzerverzeichnis
-
-
-Voraussetzungen: nur die Python-Standardbibliothek (tkinter, json).
-
-Starten mit:  python3 notenheft.py
-
-"""
-
 
 import json
 
